@@ -1,0 +1,10 @@
+.*project
+.settings/
+.vscode
+*~
+build
+/core
+node_modules
+results
+yarn.lock
+/public
