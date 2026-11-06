@@ -1,6 +1,7 @@
 {
   "name": "@interaktivgmbh/volto-password-policy-dev",
   "version": "1.0.0",
+  "private": true,
   "description": "A new add-on for Volto",
   "author": "Alexander Rybakov",
   "homepage": "https://github.com/interaktivgmbh/volto-password-policy",
